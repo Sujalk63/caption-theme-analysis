@@ -1,0 +1,120 @@
+Topic -1 (Count: 456):
+  you: 0.0415
+  and: 0.0381
+  body: 0.0371
+  to: 0.0357
+  your: 0.0325
+  of: 0.0325
+  the: 0.0320
+  abs: 0.0308
+  gains: 0.0302
+  strong: 0.0302
+
+Topic 0 (Count: 544):
+  motivation: 0.0542
+  lifestyle: 0.0537
+  health: 0.0512
+  gymmotivation: 0.0507
+  model: 0.0469
+  abs: 0.0454
+  fitnessaddict: 0.0454
+  strong: 0.0452
+  body: 0.0451
+  instafit: 0.0450
+
+Topic 1 (Count: 235):
+  sugar: 0.0708
+  protein: 0.0633
+  and: 0.0613
+  is: 0.0480
+  to: 0.0467
+  of: 0.0454
+  the: 0.0430
+  you: 0.0420
+  for: 0.0358
+  cholesterol: 0.0349
+
+Topic 2 (Count: 90):
+  paneer: 0.1202
+  eggs: 0.1033
+  in: 0.1008
+  you: 0.1002
+  inbox: 0.0933
+  and: 0.0879
+  egg: 0.0807
+  your: 0.0691
+  recipe: 0.0644
+  of: 0.0564
+
+Topic 3 (Count: 70):
+  me: 0.2971
+  919171123324: 0.2102
+  on: 0.2050
+  or: 0.1794
+  natty: 0.0839
+  itna: 0.0815
+  mykonos: 0.0641
+  hahha: 0.0641
+  2018: 0.0605
+  bar: 0.0579
+
+Topic 4 (Count: 62):
+  wedding: 0.1103
+  photography: 0.1064
+  happy: 0.1038
+  photooftheday: 0.0992
+  love: 0.0971
+  beautiful: 0.0964
+  weddingphotography: 0.0917
+  bride: 0.0917
+  instagram: 0.0897
+  kiss: 0.0894
+
+Topic 5 (Count: 33):
+  ice: 0.0920
+  icebath: 0.0740
+  the: 0.0715
+  bath: 0.0651
+  and: 0.0521
+  cold: 0.0514
+  of: 0.0470
+  inflammation: 0.0459
+  benefits: 0.0457
+  improves: 0.0450
+
+Topic 6 (Count: 25):
+  fasting: 0.2353
+  hours: 0.1643
+  autophagy: 0.1121
+  and: 0.0815
+  start: 0.0794
+  cells: 0.0760
+  to: 0.0678
+  your: 0.0665
+  you: 0.0665
+  blueprint: 0.0660
+
+Topic 7 (Count: 19):
+  agree: 0.1757
+  this: 0.1402
+  all: 0.1218
+  action: 0.1193
+  chose: 0.1193
+  louder: 0.1193
+  truth: 0.1193
+  posing: 0.1193
+  finished: 0.1193
+  speaks: 0.1193
+
+Topic 8 (Count: 17):
+  testosterone: 0.2728
+  steroids: 0.1048
+  increase: 0.1014
+  diet: 0.0880
+  your: 0.0825
+  and: 0.0742
+  free: 0.0720
+  levels: 0.0696
+  sex: 0.0686
+  boost: 0.0641
+
