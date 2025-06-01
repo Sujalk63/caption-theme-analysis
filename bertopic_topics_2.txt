@@ -1,0 +1,300 @@
+Topic -1 (Count: 536):
+  body: 0.0257
+  you: 0.0218
+  and: 0.0217
+  to: 0.0215
+  abs: 0.0215
+  the: 0.0213
+  gains: 0.0213
+  strong: 0.0211
+  fitnessaddict: 0.0211
+  bodybuilder: 0.0210
+
+Topic 0 (Count: 126):
+  healthylifestyle: 0.0547
+  sport: 0.0479
+  crossfit: 0.0457
+  healthy: 0.0450
+  bhfyp: 0.0443
+  transformation: 0.0443
+  love: 0.0422
+  fashion: 0.0408
+  paid: 0.0387
+  weightloss: 0.0381
+
+Topic 1 (Count: 125):
+  biceps: 0.0725
+  abs: 0.0723
+  cardio: 0.0720
+  gains: 0.0699
+  bodybuilder: 0.0696
+  fitnessaddict: 0.0692
+  instafit: 0.0690
+  strong: 0.0684
+  model: 0.0682
+  gymmotivation: 0.0657
+
+Topic 2 (Count: 101):
+  hai: 0.1226
+  nahi: 0.0776
+  meh: 0.0712
+  ka: 0.0616
+  ki: 0.0608
+  kar: 0.0575
+  ye: 0.0471
+  hi: 0.0462
+  kya: 0.0438
+  se: 0.0428
+
+Topic 3 (Count: 81):
+  protein: 0.1892
+  veg: 0.0879
+  whey: 0.0586
+  source: 0.0486
+  grams: 0.0462
+  and: 0.0384
+  of: 0.0374
+  pure: 0.0345
+  pizza: 0.0335
+  sources: 0.0317
+
+Topic 4 (Count: 66):
+  inbox: 0.1183
+  eggs: 0.1053
+  recipe: 0.0924
+  you: 0.0894
+  egg: 0.0838
+  in: 0.0739
+  your: 0.0707
+  and: 0.0671
+  almond: 0.0489
+  of: 0.0486
+
+Topic 5 (Count: 59):
+  wedding: 0.0870
+  photography: 0.0837
+  happy: 0.0796
+  photooftheday: 0.0787
+  beautiful: 0.0765
+  bride: 0.0734
+  weddingphotography: 0.0734
+  kiss: 0.0717
+  cute: 0.0711
+  relationshipgoals: 0.0711
+
+Topic 6 (Count: 57):
+  natty: 0.2085
+  mykonos: 0.1627
+  wife: 0.1390
+  itna: 0.1343
+  beast: 0.1211
+  har: 0.1034
+  zeher: 0.0904
+  mote: 0.0904
+  doglapan: 0.0904
+  handles: 0.0904
+
+Topic 7 (Count: 53):
+  india: 0.0778
+  iamleanbeastindia: 0.0459
+  with: 0.0358
+  he: 0.0337
+  iamwhiskeythenaughtycat: 0.0326
+  statue: 0.0313
+  my: 0.0290
+  the: 0.0288
+  iamsrk: 0.0279
+  in: 0.0274
+
+Topic 8 (Count: 43):
+  sugar: 0.2010
+  is: 0.0517
+  to: 0.0408
+  stevia: 0.0405
+  and: 0.0400
+  no: 0.0374
+  erythritol: 0.0360
+  its: 0.0339
+  substitute: 0.0300
+  best: 0.0295
+
+Topic 9 (Count: 38):
+  fatloss: 0.0731
+  to: 0.0460
+  meal: 0.0401
+  weight: 0.0386
+  fat: 0.0384
+  loss: 0.0363
+  for: 0.0352
+  omad: 0.0343
+  and: 0.0343
+  you: 0.0329
+
+Topic 10 (Count: 34):
+  ice: 0.0728
+  icebath: 0.0592
+  bath: 0.0524
+  the: 0.0463
+  cold: 0.0424
+  inflammation: 0.0376
+  improves: 0.0374
+  benefits: 0.0361
+  recovery: 0.0360
+  oil: 0.0352
+
+Topic 11 (Count: 29):
+  keto: 0.0762
+  on: 0.0367
+  gains: 0.0300
+  biceps: 0.0294
+  fitnessaddict: 0.0283
+  strong: 0.0282
+  model: 0.0282
+  lifestyle: 0.0281
+  abs: 0.0280
+  cardio: 0.0275
+
+Topic 12 (Count: 29):
+  cholesterol: 0.1198
+  high: 0.0541
+  heart: 0.0492
+  the: 0.0480
+  of: 0.0433
+  that: 0.0385
+  and: 0.0364
+  is: 0.0359
+  liver: 0.0348
+  ldl: 0.0331
+
+Topic 13 (Count: 26):
+  fasting: 0.1782
+  hours: 0.1294
+  autophagy: 0.0920
+  start: 0.0639
+  cells: 0.0626
+  blueprint: 0.0528
+  and: 0.0492
+  how: 0.0470
+  your: 0.0442
+  to: 0.0432
+
+Topic 14 (Count: 24):
+  lunch: 0.1822
+  my: 0.1702
+  meal: 0.1641
+  office: 0.1176
+  dinner: 0.1071
+  night: 0.0979
+  ate: 0.0979
+  time: 0.0825
+  looks: 0.0784
+  family: 0.0745
+
+Topic 15 (Count: 18):
+  paneer: 0.2951
+  cheese: 0.0714
+  iodine: 0.0654
+  tah: 0.0654
+  dishes: 0.0654
+  was: 0.0624
+  test: 0.0560
+  you: 0.0549
+  swiss: 0.0545
+  in: 0.0535
+
+Topic 16 (Count: 17):
+  testosterone: 0.2217
+  steroids: 0.0877
+  increase: 0.0843
+  diet: 0.0653
+  free: 0.0584
+  sex: 0.0583
+  levels: 0.0560
+  your: 0.0557
+  boost: 0.0538
+  its: 0.0474
+
+Topic 17 (Count: 16):
+  agree: 0.1628
+  action: 0.1160
+  louder: 0.1160
+  truth: 0.1160
+  speaks: 0.1160
+  chose: 0.1160
+  soul: 0.1160
+  words: 0.1160
+  position: 0.1160
+  ego: 0.1160
+
+Topic 18 (Count: 16):
+  me: 0.2975
+  919171123324: 0.2320
+  on: 0.2114
+  or: 0.1855
+  2018: 0.0747
+  bar: 0.0710
+  electrolyte: 0.0639
+  supplement: 0.0571
+  keen: 0.0443
+  haleem: 0.0443
+
+Topic 19 (Count: 13):
+  protein: 0.1913
+  whey: 0.1037
+  hai: 0.0970
+  source: 0.0922
+  sattu: 0.0912
+  chicken: 0.0801
+  sasta: 0.0775
+  ho: 0.0677
+  natural: 0.0635
+  virat: 0.0632
+
+Topic 20 (Count: 12):
+  me: 0.1914
+  919171123324: 0.1493
+  diet: 0.1355
+  or: 0.1347
+  plan: 0.1303
+  on: 0.1209
+  sample: 0.1170
+  weeks: 0.1074
+  free: 0.1062
+  receive: 0.0630
+
+Topic 21 (Count: 11):
+  water: 0.3144
+  hydration: 0.2120
+  is: 0.1165
+  hydrate: 0.1139
+  disclaimer: 0.0912
+  electrolyte: 0.0912
+  video: 0.0684
+  than: 0.0677
+  plain: 0.0632
+  everywhere: 0.0632
+
+Topic 22 (Count: 11):
+  asli: 0.4166
+  nakli: 0.4068
+  paneer: 0.3301
+  delhi: 0.2470
+  ya: 0.2034
+  kunjilal: 0.1693
+  famous: 0.1693
+  roshnara: 0.1693
+  nagar: 0.1584
+  road: 0.1584
+
+Topic 23 (Count: 10):
+  insulin: 0.2636
+  spike: 0.1329
+  resistance: 0.1027
+  you: 0.0978
+  blood: 0.0933
+  sugar: 0.0848
+  food: 0.0814
+  blueprint: 0.0781
+  and: 0.0728
+  real: 0.0682
+
